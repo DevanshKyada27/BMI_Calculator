@@ -27,5 +27,6 @@
 
 - Live screen recording of the project:
 
-You can click the link to view the live demo of the project and have a glimpse of the project : https://user-images.githubusercontent.com/143169520/276362241-a37d4a6b-5466-4757-832b-8f21b6ca60f0.mp4
+Live demo of the project : 
 
+https://github.com/DevanshKyada27/BMI_Calculator/assets/143169520/e7884567-5590-44cf-8b4e-65c719dcbe7c
